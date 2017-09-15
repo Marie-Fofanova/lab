@@ -1,2 +1,2 @@
 a=input(a)
-print("Hello, ", a, "!", sep="")
+print("Hello,  ", a, "!", sep="")
